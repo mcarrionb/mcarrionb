@@ -11,9 +11,8 @@ Welcome to my page. I'm Mar, a web development and computer engineering student.
 - 👩🏻 More about me:
 ```js
 const mcarrionb = {
-  pronoun: "she" | "her",
   passions: [languages, sports, music, travels, videogames],
-  code: [Javascript, HTML, CSS, C#, Java]
+  code: [Javascript, HTML, CSS, C#, Java, Python]
 }
 ```
 - ⚡ Fun fact: When I was 18 years old, I studied pastry and bakery. After working in different bakeries for almost four years, I decided to start this journey in web development and technologies.
